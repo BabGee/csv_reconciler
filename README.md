@@ -1,6 +1,3 @@
-## Hosted
-
-
 ## Screenshots
 
 ![image](https://github.com/BabGee/csv_reconciler/assets/39271713/00307dbb-4390-43cf-bf6c-591aca2c73e9)
