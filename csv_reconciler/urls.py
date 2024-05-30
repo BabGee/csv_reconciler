@@ -16,7 +16,7 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-from reconciler.views import *
+from reconciler.views import upload_csv
 
 urlpatterns = [
     path('admin/', admin.site.urls),
